@@ -1,4 +1,4 @@
-# studious
-Data Science Student at Stellenbosch University
-Insatiably inquisitive
-I have hobbies,  they do exist.
+# Forest
+Student at Stellenbosch University
+Interest in various areas of Computer Science, Data Analytics and more.
+
