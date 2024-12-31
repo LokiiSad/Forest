@@ -15,4 +15,5 @@ Struggling button
     -> Shows concepts to look at/advice for what might help
     -> Shows first key step
 
+Where do I get questions from and the legality thereof
 ## Smaller Projects
