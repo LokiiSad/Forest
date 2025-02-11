@@ -1,3 +1,10 @@
+# Tasks 
+1. Setup .gitignore
+2. Wayland WM keybinds and such
+
+
+
+
 # Current Focus projects
 ## Large Projects
 1. Mathematics Practice Engine
