@@ -1,0 +1,16 @@
+sudo -i
+
+nix-channel --list
+
+nix-channel --add https://nixos.org/channels/nixos-unstable nixos
+
+nix-channel --update
+
+nixos-rebuild switch --upgrade
+
+nix-env -p /nix/var/nix/profiles/system --list-generations
+
+nix-collect-garbage -d
+
+nix flake update
+
